@@ -21,3 +21,34 @@ Contacto Si tienes alguna duda, sugerencia o simplemente quieres saludarnos, pue
 Correo electrónico: geekstationteam@gmail.com
 
 ¡Gracias por apoyar a Geek Station y ser parte de nuestra misión! 💻✨
+
+
+Art by Blazej Kozlowski
+       .                .                    
+       :"-.          .-";                    
+       |:`.`.__..__.'.';|                    
+       || :-"      "-; ||                    
+       :;              :;                    
+       /  .==.    .==.  \                    
+      :      _.--._      ;                   
+      ; .--.' `--' `.--. :                   
+     :   __;`      ':__   ;                  
+     ;  '  '-._:;_.-'  '  :                  
+     '.       `--'       .'                  
+      ."-._          _.-".                   
+    .'     ""------""     `.                 
+   /`-                    -'\                
+  /`-                      -'\               
+ :`-   .'              `.   -';              
+ ;    /                  \    :              
+:    :                    ;    ;             
+;    ;                    :    :             
+':_:.'                    '.;_;'             
+   :_                      _;                
+   ; "-._                -" :`-.     _.._    
+   :_          ()          _;   "--::__. `.  
+    \"-                  -"/`._           :  
+   .-"-.                 -"-.  ""--..____.'  
+  /         .__  __.         \               
+ : / ,       / "" \       . \ ; bug          
+  "-:___..--"      "--..___;-"
